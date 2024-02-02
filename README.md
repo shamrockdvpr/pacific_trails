@@ -1,2 +1,2 @@
 # pacific_trails
-Pacific Trails Website (Module 2 Case Study)
+Pacific Trails Website (Chapter 2 Case Study)
